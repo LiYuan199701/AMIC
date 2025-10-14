@@ -1,3 +1,8 @@
+# Usage
+**This main branch is used to track and update my progress of manual scripts on Overleaf for this project. The main LaTeX file, paper reference bib file, and all figures are in the AMIC_Uncertainty_Bayesian_Variational folder.**
+
+The Bayesian model design and codes are in the branch *bayes_classification*.
+
 # AMIC
 AMIC is a natural language shallow neural network model that integrates layers of self-attention with
 logistic linear regression methods to calculate sentiment scores at the word and document level. This AMIC
@@ -7,4 +12,4 @@ or classification tasks. As a data scientist and statistician, I always want to 
 about the estimation of points. This is why we would like to modify the AMIC to produce uncertainty for
 prediction point estimations.
 
-This main branch is used to track my progress on Overleaf for this project. The main LaTeX file, paper reference bib file, and all figures are in the AMIC_Uncertainty_Bayesian_Variational folder. 
+ 
