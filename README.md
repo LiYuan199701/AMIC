@@ -1,3 +1,10 @@
+**We used four big datasets to experiment with this new Bayesian AMIC. Each dataset has its own Colab notebook to train and show results.**
+- Wine Review Dataset: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1k3KSQ5dcG12yMKW6MVCOGYtQTZOUyerz/view?usp=drive_link)
+- Amazon Review Dataset
+- IMDB Movie Review Dataset
+- Twitter Dataset
+
+
 # B-AMIC Model: Integrate Bayesian Statistics with Self-Attention Neural Network on natural languages
 
 ## Introduction
