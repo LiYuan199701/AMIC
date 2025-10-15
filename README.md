@@ -1,7 +1,7 @@
 # Usage
 **This main branch is used to track and update my progress of manual scripts on Overleaf for this project. The main LaTeX file, paper reference bib file, and all figures are in the AMIC_Uncertainty_Bayesian_Variational folder.**
 
-The Bayesian model design and codes are in the branch *bayes_classification*.
+The Bayesian model design and codes are in the sub-branches such as *document-level-BAMIC*, *word-level-BAMIC*.
 
 # AMIC
 AMIC is a natural language shallow neural network model that integrates layers of self-attention with
