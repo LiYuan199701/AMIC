@@ -5,6 +5,15 @@ The Bayesian model design and codes are in the sub-branches, such as
 - document-level-BAMIC
 - word-level-BAMIC
 
+# Slide Presentation
+
+The following is the Google slide for this project:
+
+[![Open the Google slides](https://img.shields.io/badge/Slides-Open%20Deck-blue)]([https://docs.google.com/presentation/d/e/2PACX-1vSOoyqhRBvobfHtLVPkk7gl7WdjDZFPKPe7lWK5p1EDZ7HOqz0i7QyGiJ1swJIVGUlVZXg93Ks8C7l-/present](https://docs.google.com/presentation/d/e/2PACX-1vSOoyqhRBvobfHtLVPkk7gl7WdjDZFPKPe7lWK5p1EDZ7HOqz0i7QyGiJ1swJIVGUlVZXg93Ks8C7l-/pub?start=false&loop=false&delayms=3000))
+
+
+
+
 # AMIC
 AMIC is a natural language shallow neural network model that integrates layers of self-attention with
 logistic linear regression methods to calculate sentiment scores at the word and document level. This AMIC
