@@ -3,10 +3,11 @@
 
 The Bayesian model design and codes are in the sub-branches.
 
-# This branch is about word-level Bayesian AMIC model design and codes
+# This branch is about word-level Global-Local Bayesian AMIC model design and codes
 
 The following diagram is an intermediate representation of how this model works.
-<img width="486" height="593" alt="Screenshot 2025-10-16 at 9 38 50 AM" src="https://github.com/user-attachments/assets/80a9edd5-7ede-4e46-906d-fb73f864bb8e" />
+<img width="545" height="498" alt="Screenshot 2025-10-21 at 1 17 39 PM" src="https://github.com/user-attachments/assets/32a0718e-a19c-4525-8ffe-ed4ccc917137" />
+
 
 
 # AMIC
